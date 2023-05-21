@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1681739164 source:c:\users\user\onedrive\desktop\demospl\bairstowmethod.cpp
+	<bits/stdc++.h>
+	"linear.h"
+
+1681739204 c:\users\user\onedrive\desktop\demospl\linear.h
+
+1681739204 source:c:\users\user\onedrive\desktop\demospl\linear_eq_solver.cpp
+	<bits/stdc++.h>
+	"linker.h"
+
+1681739196 c:\users\user\onedrive\desktop\demospl\linker.h
+
+1681739204 source:c:\users\user\onedrive\desktop\demospl\polynomialequation.cpp
+	<bits/stdc++.h>
+	"linker.h"
+	"linear.h"
+
+1681739401 source:c:\users\user\onedrive\desktop\demospl\main.cpp
+	<bits/stdc++.h>
+	"linker.h"
+
